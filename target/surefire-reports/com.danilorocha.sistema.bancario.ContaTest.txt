@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.danilorocha.sistema.bancario.ContaTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.023 s - in com.danilorocha.sistema.bancario.ContaTest
